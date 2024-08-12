@@ -1,0 +1,3 @@
+<script>
+  localStorage.setItem('user', JSON.stringify({ username: 'bot', role: 'admin' }));
+</script>
